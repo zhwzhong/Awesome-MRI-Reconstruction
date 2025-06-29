@@ -36,6 +36,7 @@ Model-Guided Multi-Contrast Deep Unfolding Network for MRI Super-resolution Reco
 ### 2025 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
+LMO: Linear Mamba Operator for MRI Reconstruction | LMO | [CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LMO_Linear_Mamba_Operator_for_MRI_Reconstruction_CVPR_2025_paper.pdf) | [code](https://github.com/weili419/LMO) ||
 
 ### 2024 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
