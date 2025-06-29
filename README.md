@@ -20,7 +20,7 @@
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 Spatial and Modal Optimal Transport for Fast Cross-Modal MRI Reconstruction | OT | [TMI](https://arxiv.org/pdf/2305.02774) | -- |
 SGSR: Structure-Guided Multi-Contrast MRI Super-Resolution via Spatio-Frequency Co-Query Attention| SGSR | [MLMI](https://link.springer.com/chapter/10.1007/978-3-031-73284-3_38) | --| --|
-Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution |MCSR | [CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Rethinking_Diffusion_Model_for_Multi-Contrast_MRI_Super-Resolution_CVPR_2024_paper.pdf)| [code](https://github.com/GuangYuanKK/DiffMSR) |
+Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution |DiffMSR | [CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Rethinking_Diffusion_Model_for_Multi-Contrast_MRI_Super-Resolution_CVPR_2024_paper.pdf)| [code](https://github.com/GuangYuanKK/DiffMSR) |
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
