@@ -18,6 +18,7 @@
 ### 2024 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
+Spatial and Modal Optimal Transport for Fast Cross-Modal MRI Reconstruction | | [TMI](https://arxiv.org/pdf/2305.02774) | -- |
 
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
