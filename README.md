@@ -34,6 +34,7 @@ Joint Cross-Attention Network With Deep Modality Prior for Fast MRI Reconstructi
 FEFA: Frequency Enhanced Multi-Modal MRI Reconstruction With Deep Feature Alignment | FEFA | [JBHI](https://ieeexplore.ieee.org/document/10607849) | --|
 Exploring Separable Attention for Multi-Contrast MR Image Super-Resolution | SANet | [TNNLS](https://ieeexplore.ieee.org/document/10443261?denied=) | [code](https://github.com/chunmeifeng/SANet) | | 
 Accelerated Multi-Contrast MRI Reconstruction via Frequency and Spatial Mutual Learning |FSMNet | [MICAAI](https://papers.miccai.org/miccai-2024/paper/2570_paper.pdf) | [code](https://github.com/qic999/FSMNet) |
+Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction | PromptMR+ | [ECCV](https://eccv.ecva.net/virtual/2024/poster/1057)| [code](https://github.com/hellopipu/PromptMR-plus)| 
 
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
