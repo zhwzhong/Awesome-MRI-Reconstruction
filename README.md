@@ -29,6 +29,7 @@ Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution |DiffMSR | [C
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 Multimodal MRI Reconstruction Assisted With Spatial Alignment Network | | [TMI](https://ieeexplore.ieee.org/document/9745968?denied=) | [code](https://github.com/woxuankai/SpatialAlignmentNetwork)|
+Model-Guided Multi-Contrast Deep Unfolding Network for MRI Super-resolution Reconstruction |MGDUN| [ACM MM](https://dl.acm.org/doi/10.1145/3503161.3548068) | [code](https://github.com/yggame/MGDUN) | |
 ## Single-Contrast
 
 ### 2025 Venuse
