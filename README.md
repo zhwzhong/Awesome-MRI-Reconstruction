@@ -14,6 +14,7 @@
 ### 2025 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
+MMR-Mamba: Multi-Modal MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion |MMR-Mamba | -- | |
 
 ### 2024 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
