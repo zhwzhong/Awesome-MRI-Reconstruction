@@ -10,9 +10,9 @@
 :fire::fire: This is a collection of awesome articles about MRI reconstruction:fire::fire:
 
 ## Survey
-| Title                                                        | Model | Published |                            Code                   |
-| :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
-AI-Based Reconstruction for Fast MRI—A Systematic Review and Meta-Analysis | | [Proceedings of the IEEE](https://ieeexplore.ieee.org/document/9703109) | -- |
+| Title                                                        | Published |                            Code                   |
+| :----------------------------------------------------------- | :--: | :---------------------------------------------------------: |
+AI-Based Reconstruction for Fast MRI—A Systematic Review and Meta-Analysis |  [Proceedings of the IEEE](https://ieeexplore.ieee.org/document/9703109) | -- |
 A review of deep learning-based reconstruction methods for accelerated MRI using spatiotemporal and multi-contrast redundancies| [Biomedical Engineering Letters](https://link.springer.com/article/10.1007/s13534-024-00425-9) |
 
 ## Multi-Contrast
