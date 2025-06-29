@@ -1,4 +1,4 @@
-# <p align=center>`Awesome Deep learning-based MRI Reconstruction`</p> # 
+# <p align=center>`Awesome MRI Reconstruction`</p> # 
 
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
