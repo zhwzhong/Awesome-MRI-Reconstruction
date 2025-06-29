@@ -7,7 +7,5 @@
 
 
 
-:fire::fire: This is a collection of awesome articles about deep learning in MRI reconstruction:fire::fire:
+:fire::fire: This is a collection of awesome articles about MRI reconstruction:fire::fire:
 
-[//]: # (- Our survey paper on MedIA: [Deep learning-based compressed sensing magnetic resonance imaging: a systematic revie]&#40;coming soon&#41; :heart:)
-- Our survey paper on arXiv: [Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration](https://arxiv.org/abs/2501.14158) :heart:
