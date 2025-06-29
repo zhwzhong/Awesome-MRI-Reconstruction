@@ -23,6 +23,7 @@ Spatial and Modal Optimal Transport for Fast Cross-Modal MRI Reconstruction | OT
 SGSR: Structure-Guided Multi-Contrast MRI Super-Resolution via Spatio-Frequency Co-Query Attention| SGSR | [MLMI](https://link.springer.com/chapter/10.1007/978-3-031-73284-3_38) | --| --|
 Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution |DiffMSR | [CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Rethinking_Diffusion_Model_for_Multi-Contrast_MRI_Super-Resolution_CVPR_2024_paper.pdf)| [code](https://github.com/GuangYuanKK/DiffMSR) |
 Joint Cross-Attention Network With Deep Modality Prior for Fast MRI Reconstruction| jCAN | [TMI](https://ieeexplore.ieee.org/document/10247018) | [code](https://github.com/sunkg/jCAN)|
+FEFA: Frequency Enhanced Multi-Modal MRI Reconstruction With Deep Feature Alignment | FEFA | [JBHI](https://ieeexplore.ieee.org/document/10607849) | --|
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
