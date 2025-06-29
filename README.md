@@ -28,7 +28,7 @@ Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution |DiffMSR | [C
 ### 2022 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
-
+Multimodal MRI Reconstruction Assisted With Spatial Alignment Network | | [TMI](https://ieeexplore.ieee.org/document/9745968?denied=) | [code](https://github.com/woxuankai/SpatialAlignmentNetwork)|
 ## Single-Contrast
 
 ### 2025 Venuse
