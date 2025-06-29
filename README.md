@@ -32,7 +32,7 @@ Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution |DiffMSR | [C
 Joint Cross-Attention Network With Deep Modality Prior for Fast MRI Reconstruction| jCAN | [TMI](https://ieeexplore.ieee.org/document/10247018) | [code](https://github.com/sunkg/jCAN)|
 FEFA: Frequency Enhanced Multi-Modal MRI Reconstruction With Deep Feature Alignment | FEFA | [JBHI](https://ieeexplore.ieee.org/document/10607849) | --|
 Exploring Separable Attention for Multi-Contrast MR Image Super-Resolution | SANet | [TNNLS](https://ieeexplore.ieee.org/document/10443261?denied=) | [code](https://github.com/chunmeifeng/SANet) | | 
-Accelerated Multi-Contrast MRI Reconstruction via Frequency and Spatial Mutual Learning |FSMNet | [MICAAI](https://papers.miccai.org/miccai-2024/paper/2570_paper.pdf) |  |
+Accelerated Multi-Contrast MRI Reconstruction via Frequency and Spatial Mutual Learning |FSMNet | [MICAAI](https://papers.miccai.org/miccai-2024/paper/2570_paper.pdf) | [code](https://github.com/qic999/FSMNet) |
 
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
