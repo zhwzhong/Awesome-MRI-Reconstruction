@@ -35,6 +35,7 @@ FEFA: Frequency Enhanced Multi-Modal MRI Reconstruction With Deep Feature Alignm
 Exploring Separable Attention for Multi-Contrast MR Image Super-Resolution | SANet | [TNNLS](https://ieeexplore.ieee.org/document/10443261?denied=) | [code](https://github.com/chunmeifeng/SANet) | | 
 Accelerated Multi-Contrast MRI Reconstruction via Frequency and Spatial Mutual Learning |FSMNet | [MICAAI](https://papers.miccai.org/miccai-2024/paper/2570_paper.pdf) | [code](https://github.com/qic999/FSMNet) |
 Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction | PromptMR+ | [ECCV](https://eccv.ecva.net/virtual/2024/poster/1057)| [code](https://github.com/hellopipu/PromptMR-plus)| 
+Multi-Contrast MRI Reconstruction via Information-Growth Holistic Unfolding Network | IHUN | [TIM](https://ieeexplore.ieee.org/document/10568508) |  [code](https://github.com/chenjiachengzzz/IHUN) ||
 
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
@@ -57,6 +58,7 @@ LMO: Linear Mamba Operator for MRI Reconstruction | LMO | [CVPR](https://openacc
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 Deform-Mamba Network for MRI Super-Resolution | Deform-Mamba | [MICAAI](https://papers.miccai.org/miccai-2024/paper/3762_paper.pdf) |  |
 Progressive Divide-and-Conquer via Subsampling Decomposition for Accelerated MRI | PDAC | [CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Progressive_Divide-and-Conquer_via_Subsampling_Decomposition_for_Accelerated_MRI_CVPR_2024_paper.pdf) | [code](https://github.com/ChongWang1024/PDAC) | |
+PGIUN: Physics-Guided Implicit Unrolling Network for Accelerated MRI | PGIUN | [TCI](https://ieeexplore-ieee-org.ezproxy.cityu.edu.hk/stamp/stamp.jsp?tp=&arnumber=10584139) | --|
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
