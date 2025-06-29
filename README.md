@@ -45,6 +45,7 @@ LMO: Linear Mamba Operator for MRI Reconstruction | LMO | [CVPR](https://openacc
 ### 2024 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
+Deform-Mamba Network for MRI Super-Resolution | Deform-Mamba | [MICAAI](https://papers.miccai.org/miccai-2024/paper/3762_paper.pdf) |  |
 
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
