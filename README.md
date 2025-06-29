@@ -56,7 +56,7 @@ LMO: Linear Mamba Operator for MRI Reconstruction | LMO | [CVPR](https://openacc
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 Deform-Mamba Network for MRI Super-Resolution | Deform-Mamba | [MICAAI](https://papers.miccai.org/miccai-2024/paper/3762_paper.pdf) |  |
-Progressive Divide-and-Conquer via Subsampling Decomposition for Accelerated MRI | PDAC | [CVPR](https://github.com/ChongWang1024/PDAC) | [code](https://github.com/ChongWang1024/PDAC) | |
+Progressive Divide-and-Conquer via Subsampling Decomposition for Accelerated MRI | PDAC | [CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Progressive_Divide-and-Conquer_via_Subsampling_Decomposition_for_Accelerated_MRI_CVPR_2024_paper.pdf) | [code](https://github.com/ChongWang1024/PDAC) | |
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
