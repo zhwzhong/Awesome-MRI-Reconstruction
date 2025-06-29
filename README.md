@@ -24,6 +24,7 @@ SGSR: Structure-Guided Multi-Contrast MRI Super-Resolution via Spatio-Frequency 
 Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution |DiffMSR | [CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Rethinking_Diffusion_Model_for_Multi-Contrast_MRI_Super-Resolution_CVPR_2024_paper.pdf)| [code](https://github.com/GuangYuanKK/DiffMSR) |
 Joint Cross-Attention Network With Deep Modality Prior for Fast MRI Reconstruction| jCAN | [TMI](https://ieeexplore.ieee.org/document/10247018) | [code](https://github.com/sunkg/jCAN)|
 FEFA: Frequency Enhanced Multi-Modal MRI Reconstruction With Deep Feature Alignment | FEFA | [JBHI](https://ieeexplore.ieee.org/document/10607849) | --|
+Exploring Separable Attention for Multi-Contrast MR Image Super-Resolution | SANet | [TNNLS](https://ieeexplore.ieee.org/document/10443261?denied=) | [code](https://github.com/chunmeifeng/SANet) | | 
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
