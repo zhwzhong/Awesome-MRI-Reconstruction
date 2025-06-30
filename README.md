@@ -46,6 +46,7 @@ Rethinking Multi-Contrast MRI Super-Resolution: Rectangle-Window Cross-Attention
 Flexible Alignment Super-Resolution Network for Multi-Contrast MRI | FASR-Net | [TMM](https://ieeexplore.ieee.org/document/10306317)| [code](https://github.com/yimingliu123/FASR-Net) |
 Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI| Dual-ArbNet | [MICAAI](https://arxiv.org/pdf/2307.02334v3) | [code](https://github.com/jmzhang79/Dual-ArbNet)|
 DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution| DisC-Diff | [MICAAI](https://conferences.miccai.org/2023/papers/209-Paper2249.html) | [code](https://github.com/Yebulabula/DisC-Diff) |
+Deep Unfolding Convolutional Dictionary Model for Multi-Contrast MRI Super-resolution and Reconstruction | MC-CDic | [IJCAI](https://dl.acm.org/doi/10.24963/ijcai.2023/112)| [code](https://github.com/lpcccc-cv/MC-CDic) | 
 ### 2022 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
