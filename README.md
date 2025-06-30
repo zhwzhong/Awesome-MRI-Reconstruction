@@ -12,10 +12,15 @@
 ## Survey
 | Title                                                        | Published |                            Code                   |
 | :----------------------------------------------------------- | :--: | :---------------------------------------------------------: |
-AI-Based Reconstruction for Fast MRI—A Systematic Review and Meta-Analysis |  [Proceedings of the IEEE](https://ieeexplore.ieee.org/document/9703109) | -- |
-A review of deep learning-based reconstruction methods for accelerated MRI using spatiotemporal and multi-contrast redundancies| [Biomedical Engineering Letters](https://link.springer.com/article/10.1007/s13534-024-00425-9) |
-A Comprehensive Survey on Magnetic Resonance Image Reconstruction |  [arxiv](https://arxiv.org/pdf/2503.07097v1) | |
-Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration | [arxiv](https://arxiv.org/abs/2501.14158) | [code](https://github.com/mosaf/Awesome-DL-based-CS-MRI) |
+|AI-Based Reconstruction for Fast MRI—A Systematic Review and Meta-Analysis |  [Proceedings of the IEEE](https://ieeexplore.ieee.org/document/9703109) | -- |
+|A review of deep learning-based reconstruction methods for accelerated MRI using spatiotemporal and multi-contrast redundancies| [Biomedical Engineering Letters](https://link.springer.com/article/10.1007/s13534-024-00425-9) ||
+|A Comprehensive Survey on Magnetic Resonance Image Reconstruction |  [arxiv](https://arxiv.org/pdf/2503.07097v1) | |
+|Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration | [arxiv](https://arxiv.org/abs/2501.14158) | [code](https://github.com/mosaf/Awesome-DL-based-CS-MRI) |
+|Deep learning-based magnetic resonance image super-resolution: a survey | [[Neural Computing and Applications](https://link.springer.com/journal/521) ](https://link.springer.com/article/10.1007/s00521-024-09890-w) |  |
+| |  |  |
+| |  |  |
+| |  |  |
+| |  |  |
 ## Multi-Contrast
 
 ### 2025 Venuse
