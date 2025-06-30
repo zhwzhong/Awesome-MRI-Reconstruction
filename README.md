@@ -70,7 +70,7 @@ PGIUN: Physics-Guided Implicit Unrolling Network for Accelerated MRI | PGIUN | [
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
-
+Latent-space Unfolding for MRI Reconstruction | LsUNet | [ACM MM](https://dl.acm.org/doi/10.1145/3581783.3613771) | 
 ### 2022 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
