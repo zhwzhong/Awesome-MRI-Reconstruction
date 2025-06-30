@@ -66,4 +66,4 @@ PGIUN: Physics-Guided Implicit Unrolling Network for Accelerated MRI | PGIUN | [
 ### 2022 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
-HUMUS-Net: Hybrid Unrolled Multi-Scale Network Architecture for Accelerated MRI Reconstruction| HUMUS-Net | [NeurIPS](https://papers.neurips.cc/paper_files/paper/2022/file/a1bb3f96e255ae1e04325ae166bcef0f-Paper-Conference.pdf) |  [code](https://github.com/AIF4S/HUMUS-Net) |
+HUMUS-Net: Hybrid Unrolled Multi-Scale Network Architecture for Accelerated MRI Reconstruction| HUMUS-Net | [NeurIPS](https://papers.neurips.cc/paper_files/paper/2022/file/a1bb3f96e255ae1e04325ae166bcef0f-Paper-Conference.pdf) |  [code](https://github.com/AIF4S/HUMUS-Net) | Adjacent Slice Reconstruction (ASR)|
