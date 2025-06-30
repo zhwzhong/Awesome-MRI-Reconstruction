@@ -38,12 +38,14 @@ Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction | PromptMR+ | 
 Multi-Contrast MRI Reconstruction via Information-Growth Holistic Unfolding Network | IHUN | [TIM](https://ieeexplore.ieee.org/document/10568508) |  [code](https://github.com/chenjiachengzzz/IHUN) ||
 Joint Under-Sampling Pattern and Dual-Domain Reconstruction for Accelerating Multi-Contrast MRI| MC-DuCoN | [TIP](https://ieeexplore.ieee.org/document/10645705)| [code](https://github.com/lpcccc-cv/MC-DuDoNet)|
 Edge-guided and Cross-scale Feature Fusion Network for Efficient Multi-contrast MRI Super-Resolution | EGMSSR | [ICPR](https://link.springer.com/chapter/10.1007/978-3-031-78398-2_14) | [code](https://github.com/zhiyuan-yang/Edge-Guided-Cross-Scale-MRI-Super-resolution/blob/main/test.py) |
+
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 Rethinking Multi-Contrast MRI Super-Resolution: Rectangle-Window Cross-Attention Transformer and Arbitrary-Scale Upsampling | McASSR | [ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Rethinking_Multi-Contrast_MRI_Super-Resolution_Rectangle-Window_Cross-Attention_Transformer_and_Arbitrary-Scale_Upsampling_ICCV_2023_paper.pdf) | [code](https://github.com/GuangYuanKK/McASSR) |
 Flexible Alignment Super-Resolution Network for Multi-Contrast MRI | FASR-Net | [TMM](https://ieeexplore.ieee.org/document/10306317)| [code](https://github.com/yimingliu123/FASR-Net) |
 Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI| Dual-ArbNet | [MICAAI](https://arxiv.org/pdf/2307.02334v3) | [code](https://github.com/jmzhang79/Dual-ArbNet)|
+DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution| DisC-Diff | [MICAAI](https://conferences.miccai.org/2023/papers/209-Paper2249.html) | [code](https://github.com/Yebulabula/DisC-Diff) |
 ### 2022 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
