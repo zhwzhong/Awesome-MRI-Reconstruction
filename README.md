@@ -23,8 +23,8 @@ Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compresse
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 MMR-Mamba: Multi-Modal MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion |MMR-Mamba | [MIA](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000969) | -- |
 Global and Local Mamba Network for Multi-Modality Medical Image Super-Resolution | GLMamba | [arxiv](https://arxiv.org/abs/2504.10105) | -- | |
-
-### 2024 Venuse
+Bridging MRI Cross-Modality Synthesis and Multi-Contrast Super-Resolution by Fine-Grained Difference Learning | FGDL | [TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10639436) | [code](https://github.com/papshare/FGDL) |
+ ### 2024 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 Spatial and Modal Optimal Transport for Fast Cross-Modal MRI Reconstruction | OT | [TMI](https://arxiv.org/pdf/2305.02774) | -- |
