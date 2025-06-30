@@ -37,6 +37,7 @@ Accelerated Multi-Contrast MRI Reconstruction via Frequency and Spatial Mutual L
 Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction | PromptMR+ | [ECCV](https://eccv.ecva.net/virtual/2024/poster/1057)| [code](https://github.com/hellopipu/PromptMR-plus)| 
 Multi-Contrast MRI Reconstruction via Information-Growth Holistic Unfolding Network | IHUN | [TIM](https://ieeexplore.ieee.org/document/10568508) |  [code](https://github.com/chenjiachengzzz/IHUN) ||
 Joint Under-Sampling Pattern and Dual-Domain Reconstruction for Accelerating Multi-Contrast MRI| MC-DuCoN | [TIP](https://ieeexplore.ieee.org/document/10645705)| [code](https://github.com/lpcccc-cv/MC-DuDoNet)|
+Edge-guided and Cross-scale Feature Fusion Network for Efficient Multi-contrast MRI Super-Resolution | EGMSSR | [ICPR](https://link.springer.com/chapter/10.1007/978-3-031-78398-2_14) | [code](https://github.com/zhiyuan-yang/Edge-Guided-Cross-Scale-MRI-Super-resolution/blob/main/test.py) |
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
