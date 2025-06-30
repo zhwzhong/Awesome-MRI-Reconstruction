@@ -48,6 +48,7 @@ Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI| Dual-ArbNet | [MIC
 DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution| DisC-Diff | [MICAAI](https://conferences.miccai.org/2023/papers/209-Paper2249.html) | [code](https://github.com/Yebulabula/DisC-Diff) |
 Deep Unfolding Convolutional Dictionary Model for Multi-Contrast MRI Super-resolution and Reconstruction | MC-CDic | [IJCAI](https://dl.acm.org/doi/10.24963/ijcai.2023/112)| [code](https://github.com/lpcccc-cv/MC-CDic) | 
 Decomposition-Based Variational Network for Multi-Contrast MRI Super-Resolution and Reconstruction | MC-VarNet | [ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Lei_Decomposition-Based_Variational_Network_for_Multi-Contrast_MRI_Super-Resolution_and_Reconstruction_ICCV_2023_paper.pdf) | [code](https://github.com/lpcccc-cv/MC-VarNet)|
+Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution | CANM_Net | [arxiv](https://arxiv.org/pdf/2307.02148)| [code](https://github.com/ChenWenxuan2021/CANM_Net/tree/master) |
 ### 2022 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
