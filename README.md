@@ -36,7 +36,7 @@ Exploring Separable Attention for Multi-Contrast MR Image Super-Resolution | SAN
 Accelerated Multi-Contrast MRI Reconstruction via Frequency and Spatial Mutual Learning |FSMNet | [MICAAI](https://papers.miccai.org/miccai-2024/paper/2570_paper.pdf) | [code](https://github.com/qic999/FSMNet) |
 Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction | PromptMR+ | [ECCV](https://eccv.ecva.net/virtual/2024/poster/1057)| [code](https://github.com/hellopipu/PromptMR-plus)| 
 Multi-Contrast MRI Reconstruction via Information-Growth Holistic Unfolding Network | IHUN | [TIM](https://ieeexplore.ieee.org/document/10568508) |  [code](https://github.com/chenjiachengzzz/IHUN) ||
-
+Joint Under-Sampling Pattern and Dual-Domain Reconstruction for Accelerating Multi-Contrast MRI| MC-DuCoN | [TIP](https://ieeexplore.ieee.org/document/10645705)| [code](https://github.com/lpcccc-cv/MC-DuDoNet)|
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
