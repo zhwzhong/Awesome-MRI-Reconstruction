@@ -62,6 +62,8 @@ Bridging MRI Cross-Modality Synthesis and Multi-Contrast Super-Resolution by Fin
 |Model-Guided Multi-Contrast Deep Unfolding Network for MRI Super-resolution Reconstruction |MGDUN| [ACM MM](https://dl.acm.org/doi/10.1145/3503161.3548068) | [code](https://github.com/yggame/MGDUN) | |
 |Cross-Modality High-Frequency Transformer for MR Image Super-Resolution |--| [ACM MM](https://dl.acm.org/doi/10.1145/3503161.3547804) | -- | |
 |Multi-Contrast MRI Super-Resolution via a Multi-Stage Integration Network| MINet | [MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/320-Paper0539.html) | [code](https://github.com/chunmeifeng/MINet.git) |  |
+Interpretable Deep Learning for Multimodal Super-Resolution of Medical Images | LMCSC | [MICCAI](https://link.springer.com/content/pdf/10.1007/978-3-030-87231-1_41.pdf) | -- |
+WavTrans: Synergizing Wavelet and Cross-Attention Transformer for Multi-contrast MRI Super-Resolution | WavTrans | [MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_44) | [code](https://github.com/XAIMI-Lab/WavTrans/tree/main) |
 ## Single-Contrast
 
 ### 2025 Venuse
